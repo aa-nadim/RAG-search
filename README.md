@@ -15,5 +15,7 @@ pip install -r requirements.txt
 
 python website-RAG-search-json.py
 
+python website-RAG-search-db.py
+
 python test.py
 ```
