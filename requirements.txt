@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+langchain_community
+setuptools
+scikit-learn
+psycopg2-binary
+requests
+beautifulsoup4
+numpy
+python-dotenv
