@@ -1,4 +1,5 @@
-# CrewAI + Database
+# RAG (Retrieval-Augmented Generation)
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
